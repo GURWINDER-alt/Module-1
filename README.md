@@ -270,18 +270,3 @@ zip files.zip file1 file2
 unzip  
 Extracts ZIP files.  
 unzip files.zip  
-# Real-Life Applications of Module 1
-Software Development: Developers use Linux and Bash to write, test, and deploy applications.  
-
-Cloud Computing: Most cloud servers (AWS, Azure, Google Cloud) run Linux.  
-
-Cybersecurity: Ethical hackers and penetration testers use Linux distributions like Kali Linux.  
-
-System Administration: Administrators manage users, permissions, backups, and servers using Linux commands.  
-
-Automation: Bash scripts automate repetitive tasks such as backups, file management, and software installation.  
-
-Data Processing: Tools like grep, awk, and sed quickly search and process large log files and datasets.  
-
-DevOps: Linux and Bash are essential for CI/CD pipelines, Docker, Kubernetes, and server management.  
-
